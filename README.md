@@ -7,7 +7,19 @@ Web Developer
 Im from Wisconsin. Ive been developing for around a year thanks to an awesome oppurtunity from a bootcamp program. Ive always loved how things functioned from the basis of an idea and its brought to life with multiple functionalities.Though facing alot of times imposter syndrome i still manageto create projects that helps me continue to learn and aswell as practise.
 
 * ✉️  You can contact me at [joserrodri92@gmail.com](mailto:joserrodri92@gmail.com)
-* 🧠  I'm learning Honing and sharpening the skills ive learned
+* 🧠  I'm learning on honing and sharpening the skills ive learned.
+
+### Projects
+
+[Backend Development Hacker Connected](https://github.com/Fallangel666/Hacker_conneted/tree/master/server)
+Worked on the server backend of this project with two other hackers on my other account Balth13r.
+
+[Wack-a-dev](https://github.com/Balthi3r/milestone-game)
+Worked on this project so that when i get stuck on a project i use it to settle down and think from my other account Balthi3r.
+
+[Massage Therapy](https://github.com/Balthi3r/massage_therapy)
+MAde this project for my fiancee as she is going to school for massage therapy and wanted to make her own bussiness doing so. It is still a work in progress.As i am currently tackling the api for longin and apointments.
+
 
 ### Skills
 
